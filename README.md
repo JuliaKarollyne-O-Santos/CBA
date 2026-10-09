@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="midias/logo/logo-cba.png" alt="Logo do CBA" width="320">
-</p>
-
-<h1 align="center">CBA – Comedouro e Bebedouro Automatizado</h1>
+<h1 align="center">
+  <img src="midias/logo/logo-cba-titulo.png" alt="CBA" height="80" align="middle"> – Comedouro e Bebedouro Automatizado
+</h1>
 
 <p align="center">
   Comedouro e bebedouro automáticos para animais de rua e pets, controlados por um aplicativo de celular.<br>
