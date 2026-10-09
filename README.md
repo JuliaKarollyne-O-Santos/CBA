@@ -1,20 +1,19 @@
 <h1 align="center">
-  <img src="midias/logo/logo-cba-titulo.png" alt="CBA" height="80" align="middle"> – Comedouro e Bebedouro Automatizado
+    <img src="midias/logo/logo-cba-titulo.png" alt="CBA" height="86" align="absmiddle"> – Comedouro e Bebedouro Automatizado
 </h1>
 
-<p align="center">
+<p>
   Comedouro e bebedouro automáticos para animais de rua e pets, controlados por um aplicativo de celular.<br>
   Trabalho de Conclusão de Curso da <strong>Etec Dr. Geraldo José Rodrigues Alckmin</strong> (Taubaté, SP), apresentado no <strong>XIV CICTED</strong>.
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Arduino-C%2FC%2B%2B-00979D?logo=arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/App-Kodular-4A4A4A" alt="Kodular">
   <img src="https://img.shields.io/badge/Conexão-Bluetooth-0082FC?logo=bluetooth&logoColor=white" alt="Bluetooth">
   <img src="https://img.shields.io/badge/Ano-2025-F47B20" alt="2025">
 </p>
 
----
 
 ## Sumário
 
@@ -29,7 +28,6 @@
 - [CICTED](#apresentação-no-xiv-cicted)
 - [Equipe](#equipe)
 
----
 
 ## O problema
 
@@ -46,7 +44,6 @@ O **CBA** garante que os animais tenham acesso contínuo a água e comida, de fo
 
 Tudo é controlado à distância pelo celular, conectado ao Arduino por Bluetooth.
 
----
 
 ## Veja funcionando
 
@@ -69,7 +66,6 @@ Clique nas imagens para assistir aos vídeos.
   </tr>
 </table>
 
----
 
 ## Como funciona
 
@@ -88,7 +84,6 @@ Clique nas imagens para assistir aos vídeos.
   <em>Modelo 3D do projeto: por fora (esquerda) e por dentro (direita)</em>
 </p>
 
----
 
 ## O aplicativo
 
@@ -100,7 +95,6 @@ Clique nas imagens para assistir aos vídeos.
   </tr>
 </table>
 
----
 
 ## Componentes
 
@@ -114,7 +108,6 @@ Clique nas imagens para assistir aos vídeos.
 | Reservatórios, funil, tubos e potes | Estrutura que guarda e conduz a comida e a água |
 | Jumpers e protoboard | Ligações entre os componentes |
 
----
 
 ## Estrutura do repositório
 
@@ -126,7 +119,6 @@ Clique nas imagens para assistir aos vídeos.
 📁 documentos/     resumo e banner apresentados no XIV CICTED
 ```
 
----
 
 ## Como usar
 
@@ -136,7 +128,6 @@ Clique nas imagens para assistir aos vídeos.
 4. Abra o app, toque em **Conectar Bluetooth** e escolha o módulo do CBA.
 5. Use **Liberar comida** e **Liberar água**, ou marque **Deseja programar em intervalos de tempo?** para deixar automático.
 
----
 
 ## Apresentação no XIV CICTED
 
@@ -151,7 +142,6 @@ O CBA foi apresentado no **Encontro de Iniciação Científica (ENICJR)** do **X
 - 📄 [Resumo do trabalho (PDF)](documentos/resumo-cicted.pdf)
 - 🖼️ [Banner (PDF)](documentos/banner-cicted.pdf)
 
----
 
 ## Equipe
 
