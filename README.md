@@ -160,7 +160,6 @@ O CBA foi apresentado no **Encontro de Iniciação Científica (ENICJR)** do **X
 **Autoras**
 
 - Ana Clara Santos Pereira
-- Gabrielly Carvalho Tozetto Santos
 - [Julia Karollyne de Oliveira dos Santos](https://github.com/JuliaKarollyne-O-Santos)
 - Quezia Queren Nunes Luiz
 
